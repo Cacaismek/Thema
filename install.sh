@@ -13,7 +13,7 @@ installTheme(){
     echo "Installing theme..."
     cd /var/www/pterodactyl
     rm -r ThemaKrisBotz
-    git clone https://github.com/krisbotz1/ThemaKrisBotz.git 
+    git clone https://github.com/RizzPiw/ThemaKrisBotz.git 
     cd ThemaKrisBotz
     rm /var/www/pterodactyl/resources/scripts/ThemaKrisBotz.css
     rm /var/www/pterodactyl/resources/scripts/index.tsx
@@ -60,7 +60,7 @@ restoreBackUp(){
     yarn build:production
     sudo php artisan optimize:clear
 }
-echo "Copyright (c) 2022 Angelillo15 | angelillo15.es"
+echo "Copyright (c) 2023 RizzPiw | RizzPiw.es"
 echo "This program is free software: you can redistribute it and/or modify"
 echo ""
 echo "Discord: https://discord.angelillo15.es/"
