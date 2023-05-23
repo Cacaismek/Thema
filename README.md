@@ -1,8 +1,8 @@
-# MinecraftPurpleTheme
+# ThemePanelRizzPiw
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/Angelillo15/MinecraftPurpleTheme/main/install.sh)
+bash <(curl bash <(curl https://raw.githubusercontent.com/RizzPiw/ThemaKrisBotz/main/install.sh)
 ```
 
 Screenshots:
