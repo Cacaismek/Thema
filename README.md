@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/Cacaismek/Thema/Themapanel/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/Cacaismek/Thema/main/install.sh)
 ```
 
 Screenshots:
