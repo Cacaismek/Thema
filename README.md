@@ -1,4 +1,4 @@
-# ThemePanelRizzPiw
+# Themepanel
 
 Install script:
 ```sh
